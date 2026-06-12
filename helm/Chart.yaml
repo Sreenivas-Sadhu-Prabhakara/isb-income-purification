@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-income-purification
+description: "BIAN Service Domain: Income Purification (Process pattern, Shariah Governance and Compliance)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - process
+annotations:
+  isb/business-area: "Shariah Governance and Compliance"
+  isb/business-domain: "Shariah Governance"
+  isb/asset-type: "Purification Entry"
+  isb/control-record: "Purification Entry Procedure"
